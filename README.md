@@ -1,7 +1,5 @@
 # MarvelTriviaGame
 
-# MarvelTriviaGame
-
 This was created to challenge me to testing what I have learned of javascript and jquery so far.
 
 You have 15 questions that are Marvel themed. You have 15 seconds to answer a question.
